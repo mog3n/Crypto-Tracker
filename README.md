@@ -5,4 +5,4 @@ Includes clock for multiple time zones (namely UTC, TOK, and BEI) so you know th
 
 API courtesy of CoinMarketCap.com, written in HTML/CSS, functionality of course, in JavaScript.
 
-Demo here: http://www.heywallet.co/coin
+Demo here: http://www.heywallet.co/tracker
